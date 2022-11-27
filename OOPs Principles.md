@@ -3,8 +3,8 @@
 ### Polymorphism :
 #### Polymorphism has combination of 2 words "poly" and "morphism" poly means many and morphism means many forms. The ability of displaying message in many forms is called polymorphism.
 #### In Java mainly polymorphism divided into 2 types :
-##### 1. Compile-time polymorphism.<br>2. Runtime Polymorphism
-#### Compile-time polymorhism.<br>It is known as static polymorphism and it can be acheived by method overloading or operator overloading
+##### 1. Compile-time polymorphism.<br>2. Runtime Polymorphism.
+#### Compile-time polymorhism.<br>It is known as static polymorphism and it can be acheived by method overloading or operator overloading.
 **Note :** **operator overloading cannot be supported by java**
 #### Runtime polymorphism.<br>It is known dynamic method dispatch and it can be acheived by method overriding.
 
