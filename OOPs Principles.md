@@ -9,3 +9,5 @@
 #### Runtime polymorphism.<br>It is known dynamic method dispatch and it can be acheived by method overriding.
 
 #### Rules in method overloading :<br>1. All method which are to be overloaded shoud be in the same class<br>2. Method name should be same but the signature of the method and numbers of parameters of method should be different.<br>3. Return can be different or same.
+
+#### Rules in method overriding : <br>1. All overriding methods should have same definition like return type, number of parametrs.<br>2. Inheritance is must in method overriding<br>3. Private methods cannot be overrided.
