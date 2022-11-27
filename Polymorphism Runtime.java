@@ -9,6 +9,7 @@ public class Student1 {
 }
 public class Student2 extends Student1{
 	
+	@Override
 	public void studentinfo() {
 		System.out.println("I am Student2");
 	}
@@ -16,6 +17,7 @@ public class Student2 extends Student1{
 }
 public class Student3 extends Student1{
 
+	@Override
 	public void studentinfo() {
 		System.out.println("I am Student3");
 	}
