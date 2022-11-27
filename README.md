@@ -7,4 +7,6 @@
 
 ### Polymorphism :
 #### Polymorphism has combination of 2 words "poly" and "morphism" poly means many and morphism means many forms. The ability of displaying message in many forms is called polymorphism.
+#### In Java mainly polymorphism divided into 2 types :
+##### 1. Compile-time polymorphism.<br>2. Runtime Polymorphism
 
