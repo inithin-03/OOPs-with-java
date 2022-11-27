@@ -5,10 +5,5 @@
 #### Object is a real-world entity and instance of a class which are used to access the proprties, methods of class. Example : Tiger, Lion, elephant, etc...,<br>Tiger has properties like color is standard orange and speed is 50 to 65kmph.
 #### Note : **This** keyword refers to current objects in a method or constructor.
 
-### Polymorphism :
-#### Polymorphism has combination of 2 words "poly" and "morphism" poly means many and morphism means many forms. The ability of displaying message in many forms is called polymorphism.
-#### In Java mainly polymorphism divided into 2 types :
-##### 1. Compile-time polymorphism.<br>2. Runtime Polymorphism
-#### Compile-time polymorhism.<br>It is known as static polymorphism and it can be acheived by method overloading or operator overloading
-**Note :** **operator overloading cannot be supported by java**
+
 
