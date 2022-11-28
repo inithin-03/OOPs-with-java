@@ -1,7 +1,7 @@
 ### 4 Principles of OOPs:
 #### 1. Polymorphism.<br>2. Inheritance.<br>3. Abstraction.<br>4. Encapsulation.
 ### Polymorphism :
-#### Polymorphism has combination of 2 words "poly" and "morphism" poly means many and morphism means many forms. The ability of displaying message in many forms is called polymorphism.
+#### Polymorphism has combination of 2 words "poly" and "morphism" poly means many and morphism means many forms. The ability of displaying message in many forms is called polymorphism. 
 #### In Java mainly polymorphism divided into 2 types :
 ##### 1. Compile-time polymorphism.<br>2. Runtime Polymorphism.
 #### Compile-time polymorhism.<br>It is known as static polymorphism and it can be acheived by method overloading or operator overloading.
